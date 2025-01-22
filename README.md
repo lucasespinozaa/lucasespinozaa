@@ -35,4 +35,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
 </span>
+<h2>Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=lucasespinozaa&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/lucasespinozaa)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=lucasespinozaa&theme=material-palenight)](https://github.com/lucasespinozaa)
 </div>
